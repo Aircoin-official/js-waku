@@ -22,6 +22,9 @@
     "Dscore",
     "ecies",
     "editorconfig",
+    "enr",
+    "enrs",
+    "enrtree",
     "ephem",
     "esnext",
     "ethersproject",
@@ -65,9 +68,11 @@
     "recid",
     "rlnrelay",
     "sandboxed",
+    "scanf",
     "secio",
     "seckey",
     "secp",
+    "sscanf",
     "staticnode",
     "statusim",
     "submodule",
@@ -98,6 +103,7 @@
     "node_modules/**",
     "build",
     "gen",
-    "proto"
+    "proto",
+    "*.spec.ts"
   ]
 }
